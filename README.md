@@ -1,8 +1,8 @@
 # UDPImageStreaming
-This project is to stream image over UDP. 
-How to build:
-mkdir build
-cd build
-cmake ..
-make
+This project is to stream image over UDP. </br>
+How to build: </br>
+mkdir build </br>
+cd build </br>
+cmake .. </br>
+make </br>
 
